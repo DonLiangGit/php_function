@@ -1,7 +1,7 @@
 php_function
 ============
 
-implement functions with PHP
+*This will be Italic* implement functions with PHP
 
 In cookies_session folder, the .php documents are used to implement cookies and sessions seperately.
 
